@@ -1,0 +1,7 @@
+AS53xx  KEYWORD1
+AS53  KEYWORD1
+
+interruptOnMe KEYWORD2
+resetCounter KEYWORD2
+curstep KEYWORD2
+curmcm KEYWORD2
